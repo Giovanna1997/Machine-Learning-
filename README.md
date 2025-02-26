@@ -1,5 +1,5 @@
-# Machine-Learning-Labs-Stanford University
-This repository contains my completed labs from Stanford's Machine Learning course on Coursera.
+# Machine Learning Labs from Stanford University Course
+This repository contains my completed labs from Stanford University's Supervised Machine Learning: Regression and Classification course, of the Machine Learning specialization
 
 Topics covered:
 - Supervised and Unsupervised Learning 
