@@ -7,13 +7,13 @@ Topics covered:
 - Logistic Regression
 - Gradient Descent
 
-More specifically, the files cover the following:
-•	Implement and visualize a cost function
-•	Implement gradient descent
-•	Optimize a regression model using gradient descent
-•	Use vectorization to implement multiple linear regression
-•	Use feature scaling, feature engineering, and polynomial regression to improve model training
-•	Implement linear regression 
-•	Use logistic regression for binary classification
-•	Implement logistic regression for binary classification
-•	Address overfitting using regularization, to improve model performance
+More specifically, the files cover the following: <br>
+•	Implement and visualize a cost function <br>
+•	Implement gradient descent <br>
+•	Optimize a regression model using gradient descent <br>
+•	Use vectorization to implement multiple linear regression <br>
+•	Use feature scaling, feature engineering, and polynomial regression to improve model training <br>
+•	Implement linear regression  <br>
+•	Use logistic regression for binary classification <br>
+•	Implement logistic regression for binary classification <br>
+•	Address overfitting using regularization, to improve model performance <br>
