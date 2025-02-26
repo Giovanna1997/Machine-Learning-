@@ -7,6 +7,13 @@ Topics covered:
 - Logistic Regression
 - Gradient Descent
 
-## How to Run
-- Open the `.ipynb` files in Jupyter Notebook
-- Run `pip install -r requirements.txt` if necessary
+More specifically, the files cover the following:
+•	Implement and visualize a cost function
+•	Implement gradient descent
+•	Optimize a regression model using gradient descent
+•	Use vectorization to implement multiple linear regression
+•	Use feature scaling, feature engineering, and polynomial regression to improve model training
+•	Implement linear regression 
+•	Use logistic regression for binary classification
+•	Implement logistic regression for binary classification
+•	Address overfitting using regularization, to improve model performance
